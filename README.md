@@ -79,7 +79,7 @@
 
       <aside class="portrait" aria-label="Jeanette and Alonso portrait">
         <!-- Mobile-ready hero image -->
-        <img src="hummingbirds.JPG" alt="Two hummingbirds photo">
+        <img src="hummingbirds.jpg" alt="Two hummingbirds photo">
         <div class="names">
           <span>Jeanette</span>
           <span>Alonso</span>
