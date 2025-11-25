@@ -69,7 +69,7 @@
     <section class="hero" aria-labelledby="hero-heading">
       <div class="intro">
         <h1 id="hero-heading">Two hummingbirds, one story</h1>
-        <p>Welcome to our little corner of the internet — a colorful, minimal tribute to the moments that shaped us. Save this page, add the music, and come back whenever you need a reminder of how far we've come.</p>
+        <p>Welcome to our little corner of the internet  a colorful, minimal tribute to the moments that shaped us. Save this page, add the music, and come back whenever you need a reminder of how far we've come.</p>
         <div class="cta">
           <button class="btn btn-primary" onclick="document.getElementById('about').scrollIntoView({behavior:'smooth'})">Our Story</button>
           <button class="btn btn-ghost" onclick="document.getElementById('music').scrollIntoView({behavior:'smooth'})">Play Music</button>
@@ -79,7 +79,7 @@
 
       <aside class="portrait" aria-label="Jeanette and Alonso portrait">
         <!-- Mobile-ready hero image -->
-        <img src="hummingbirds.jpg" alt="Two hummingbirds photo">
+        <img src="hummingbirds.JPG" alt="Two hummingbirds photo">
         <div class="names">
           <span>Jeanette</span>
           <span>Alonso</span>
